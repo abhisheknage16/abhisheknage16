@@ -15,7 +15,8 @@
 
 - 📫 How to reach me **abhisheknage11001@gmail.com**
 
-- 📄 Know about my experiences [Completed Internship at Soft the Next Pune-2 months](Completed Internship at Soft the Next Pune-2 months)
+- 📄 Know about my experiences :Completed Internship at Soft the Next Pune-2 months
+- Completed Internship at Internshala Pune-2 months)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
