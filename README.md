@@ -1,4 +1,38 @@
-<h3 align="left">Languages and Tools:</h3>
+# Hi 👋, I'm Abhishek Nage
+
+### A passionate Computer Engineer from Pune, India
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhisheknage16&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abhisheknage16&theme=dracula&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+  </a>
+</p>
+
+- 🔭 I’m currently working on **Product Price Tracker** – Real-time Amazon price monitoring with automated scraping, alerts, and Streamlit dashboard
+- 🌱 I’m currently learning **Advanced Python (Web Scraping, Automation, Data Pipelines), Streamlit, Playwright**
+- 👨‍💻 Featured Projects:
+  - **Product Price Tracker** (Python • Playwright • Streamlit • SQLAlchemy • Pandas • Plotly • APScheduler)
+  - **Cuisine Cruise** (Android App – Kotlin/Jetpack Compose)
+  - **Bajrang Dairy** (Full Stack Application)
+  - **Dynamic Fitness** (Full Stack Website)
+- 🤝 Internships: Soft the Next Pune (2 months) • Internshala Pune (2 months)
+- 📫 How to reach me: **abhisheknage11001@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/abhisheknage16" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/abhisheknage16" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
+
+<h3 align="left">Tech Stack & Tools:</h3>
 <p align="left">
   <!-- Python & Data -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -8,7 +42,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   </a>
   <a href="https://plotly.com/python/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/valohai/valohai/master/docs/static/img/logo-plotly.png" alt="Plotly" width="40" height="40"/>
+    <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="40" height="40"/>
   </a>
   <a href="https://www.sqlalchemy.org" target="_blank" rel="noreferrer">
     <img src="https://www.sqlalchemy.org/img/sqla_logo.png" alt="SQLAlchemy" width="40" height="40"/>
@@ -66,4 +100,18 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheknage16&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhisheknage16&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheknage16&theme=dracula" alt="GitHub Streak" />
 </p>
