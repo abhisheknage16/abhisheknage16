@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Nage</h1>
 <h3 align="center">A passionate Computer Engineer from Pune, India</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhisheknage16&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhisheknage16" alt="abhisheknage16" /></a> </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
